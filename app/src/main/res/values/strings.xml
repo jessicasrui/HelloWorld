@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HolaMundo</string>
+    <string name="tvMessageStartText">Hola Mundo</string>
+    <!-- tvMessageEndText pertenece a un textView-->
+    <string name="tvMessageEndText">MUY Cruel</string>
+    <!-- messageOptimist no pertenece a ningun componente grafico-->
+    <string name="messageOptimist">En este maravilloso día</string>
+</resources>

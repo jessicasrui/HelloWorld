@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+    <!-- match_parent: ajustate al tamaño del padre
+-wrap_content: expande todo el contenido
+-dp: pixeles en base a la pantalla
+-el peso deve de ir unido a la propiedad height
+-el id es un valor que se crea en tiempo de ejecucion
+-poner asi tvMessageStartText o asi tvMessageStart_text
+-para hacer referencia al texto de string.xml, poner siempre un @
+-layout_gravity centra con respecto al padre
+-gravity alineate con respecto a tu tamaño/espacio
+-->
+    <TextView
+        android:id="@+id/tvMessageStart"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.5"
+        android:background="@color/orange"
+        android:gravity="center_vertical|center_horizontal"
+        android:text="@string/tvMessageStartText"
+        android:textSize="34sp"
+        android:textStyle="bold" />
+<!-- Todo View debe de tener un id-->
+    <TextView
+        android:id="@+id/tvMessageEnd"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.5"
+        android:background="@color/green"
+        android:textAlignment="center"
+        android:text="@string/tvMessageEndText"
+        android:textSize="34sp"
+        android:textStyle="bold" />
+
+</LinearLayout>
