@@ -22,7 +22,6 @@ public class MainActivity extends AppCompatActivity {
     private TextView tvMessageEnd;
 
     // TODO esto es un comentario para ver como se genera el comentario todo
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -31,7 +30,5 @@ public class MainActivity extends AppCompatActivity {
         tvMessageStart.setTextColor(getColor(R.color.white));   // esto equivale a android:text="@string/tvMessageStartText"
         //tvMessageEnd.setText();
     }
-
 }
-// plugin : atom material icon
 // ctrl+q : seleccionar un método o algo para ver ayuda
