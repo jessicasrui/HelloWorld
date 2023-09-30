@@ -13,10 +13,26 @@ A continuacion, se detallan los conocimientos adquiridos durante el desarrollo d
 
 ###### 3. Generación de JavaDoc
 
+
+
 ###### 4. Creación de un Repositorio Git
-`git int`
-`git add .`
-`git `
+Hemos aprendido como crear un repositorio y subirlo a nuestra cuenta de GitHub. Estos son los comandos que hemos utilizado para ello:
+
+`git int`  
+
+
+`git remote add origin https://github.com/jessicasrui/HelloWorld.git`  
+
+
+`git add .`  
+
+
+`git commit -m "Frist commit"`  
+
+
+`git push origin master`  
+
+
 
 #### Capturas de pantalla
 ---
@@ -25,9 +41,3 @@ A continuacion, se detallan los conocimientos adquiridos durante el desarrollo d
 
 En la siguiente imagen podemos ver una captura de pantalla de nuestra aplicación HelloWorld.
 ![](https://github.com/jessicasrui/HelloWorld/blob/master/capturaApp.jpeg)
-
-###Images
-
-![](https://pandao.github.io/editor.md/examples/images/8.jpg)
-
-> Pie de foto
