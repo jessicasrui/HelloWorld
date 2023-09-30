@@ -24,7 +24,7 @@ A continuacion, se detallan los conocimientos adquiridos durante el desarrollo d
 >Esta es la imagen de nuestra aplicación
 
 En la siguiente imagen podemos ver una captura de pantalla de nuestra aplicación HelloWorld.
-![](insertar imagen)
+![](https://github.com/jessicasrui/HelloWorld/blob/master/capturaApp.jpeg)
 
 ###Images
 
