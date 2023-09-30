@@ -22,7 +22,7 @@ Hemos aprendido a añadir recursos al archivo string.xml, para mostar su conteni
 También hemos aprendido a cambiar la imagen que viene por defecto en la aplicación, para ello primero hay que borrar los archivos que se muestran seleccionados en la siguiente captura.  
 
 
-<img src="https://github.com/jessicasrui/HelloWorld/blob/master/cambioLogoApp.png" alt="JuveYell" width="100px">  
+<img src="https://github.com/jessicasrui/HelloWorld/blob/master/imagenes/cambioLogoApp.png" width="100px">  
 
 
 Una vez hayamos borrado esos archivos nos vamos al entorno de Android Studio ‘File > New > Image Asset’ para crear la nueva imagen.
@@ -52,7 +52,7 @@ Hemos aprendido como crear un repositorio y subirlo a nuestra cuenta de GitHub. 
 #### Capturas de pantalla
 ---
 
-<img src="https://github.com/jessicasrui/HelloWorld/blob/master/app/src/main/ic_launcher-playstore.png" alt="JuveYell" width="100px">
+<img src="https://github.com/jessicasrui/HelloWorld/blob/master/app/src/main/ic_launcher-playstore.png" width="100px">
 
 
 > Esta es la imagen de nuestra aplicación  
@@ -61,4 +61,4 @@ Hemos aprendido como crear un repositorio y subirlo a nuestra cuenta de GitHub. 
 En la siguiente imagen podemos ver una captura de pantalla de nuestra aplicación HelloWorld.  
 
 
-<img src="https://github.com/jessicasrui/HelloWorld/blob/master/capturaApp.jpeg" alt="JuveYell" width="300px">
+<img src="https://github.com/jessicasrui/HelloWorld/blob/master/imagenes/capturaApp.jpeg" width="300px">
