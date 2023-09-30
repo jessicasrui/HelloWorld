@@ -20,7 +20,7 @@ A continuacion, se detallan los conocimientos adquiridos durante el desarrollo d
 
 #### Capturas de pantalla
 ---
-![](img app)
+![](https://github.com/jessicasrui/HelloWorld/blob/master/app/src/main/ic_launcher-playstore.png)
 >Esta es la imagen de nuestra aplicación
 
 En la siguiente imagen podemos ver una captura de pantalla de nuestra aplicación HelloWorld.
