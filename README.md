@@ -36,8 +36,19 @@ Hemos aprendido como crear un repositorio y subirlo a nuestra cuenta de GitHub. 
 
 #### Capturas de pantalla
 ---
-![](https://github.com/jessicasrui/HelloWorld/blob/master/app/src/main/ic_launcher-playstore.png)
+
+<div>
+<p style = 'text-align:center;'>
+<img src="https://github.com/jessicasrui/HelloWorld/blob/master/app/src/main/ic_launcher-playstore.png" alt="JuveYell" width="300px">
+</p>
+</div>
 >Esta es la imagen de nuestra aplicación
 
-En la siguiente imagen podemos ver una captura de pantalla de nuestra aplicación HelloWorld.
-![](https://github.com/jessicasrui/HelloWorld/blob/master/capturaApp.jpeg)
+En la siguiente imagen podemos ver una captura de pantalla de nuestra aplicación HelloWorld.  
+
+
+<div>
+<p style = 'text-align:center;'>
+<img src="https://github.com/jessicasrui/HelloWorld/blob/master/capturaApp.jpeg" alt="JuveYell" width="300px">
+</p>
+</div>
